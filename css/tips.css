@@ -1,0 +1,121 @@
+
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.cover img{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.i{
+    height: 47px;
+    
+}
+
+.i a{
+    color: black;
+}
+
+.i .o a {
+    text-decoration: none;
+}
+.navbar ul a{
+    padding: 4px;
+    font-size: 13px;
+}
+
+.navbar span a {
+    text-decoration: none;
+    padding: 4px;
+}
+
+.jumbotron {
+    min-height: 300px;
+}
+
+.foot {
+    margin-top: -60px;
+    height: 280px;
+    width: 100%;
+}
+
+.foot ul li {
+    display: initial;
+    padding: 15px;
+}
+
+.foot ul li a{
+    text-decoration: none;
+    color: #B97D2D;
+}
+
+.foot ul li a:hover{
+    color: #212121;
+    transition: 0.5s;
+}
+
+.zz a{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 18px;
+    color: #212121;
+}
+.zz a:hover{
+    transition: 0.4s;
+}
+.y p{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+.r p a{
+    text-decoration: none;
+}
+.r p a:hover{
+    color: #212121;
+    transition: 0.4s;
+}
+@media (min-width:400px){
+#s a{
+    font-size: 13px;
+}
+.navbar ul a{
+    font-size: 13px;
+}
+}
+.vv a{
+    margin-top: 15px;
+    font-size: 35px;
+    text-decoration: none;
+    text-align: center;
+}
+.vv p{
+    text-align: center;
+}
+.cc {
+    margin-top: -33px;
+}
+
+.cc p {
+    text-align: center;
+}
+
+.hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+  }
+
+#ch .p2 p { 
+    margin-left: 190px;
+}
+#ch .p1 p { 
+    margin-right: 190px;
+}
